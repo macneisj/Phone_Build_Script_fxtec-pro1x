@@ -13,19 +13,19 @@ Would be nice for PinePhone
 # V_2
 # Files
 
-patches/apply_patches.sh # test patches
-patches/display-fixes-v618-v2.patch # regulator/delay hack to get it to boot ... will fix
-
-full_build_script-fluxbox-V2.sh # current build script
-MK_img-FINAL.sh # to make small adjustments 
-flash.sh # flash img files
-MGL.config # current .config
-
-boot.img
-rootfs.img
-vbmeta.img # probably not needed
-
-# remove .Image.gz-dtb when done
-
+patches/apply_patches.sh # test patches\n
+patches/display-fixes-v618-v2.patch # regulator/delay hack to get it to boot ... will fix\n
+\n
+full_build_script-fluxbox-V2.sh # current build script\n
+MK_img-FINAL.sh # to make small adjustments\n
+flash.sh # flash img files\n
+MGL.config # current .config\n
+\n
+boot.img\n
+rootfs.img\n
+vbmeta.img # probably not needed\n
+\n
+# remove .Image.gz-dtb when done\n
+\n
 Let me know what you think!
 
